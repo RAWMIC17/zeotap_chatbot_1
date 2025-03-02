@@ -9,7 +9,10 @@ This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a 
 - "Read More" link support for extended content
 
 ## 📷 Screenshots
- <!-- Replace with actual screenshots -->
+![front_1](https://github.com/user-attachments/assets/f22feae0-c0e4-4582-be0e-d35d0971becf)
+![front_2](https://github.com/user-attachments/assets/82fbbfa4-caa4-4034-a7b6-e8ddf76017b2)
+![front_3](https://github.com/user-attachments/assets/aba11fd7-3b4a-415f-b47d-b7d29a9471b6)
+
 
 ## 🛠️ Tech Stack
 - **Flutter** (UI)
