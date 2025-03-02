@@ -9,7 +9,7 @@ This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a 
 - "Read More" link support for extended content
 
 ## 📷 Screenshots
-![Chat UI](https://via.placeholder.com/600x300) <!-- Replace with actual screenshots -->
+ <!-- Replace with actual screenshots -->
 
 ## 🛠️ Tech Stack
 - **Flutter** (UI)
@@ -20,8 +20,8 @@ This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a 
 ## 🏗️ Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/zeotap-chatbot-frontend.git
-cd zeotap-chatbot-frontend
+git clone https://github.com/RAWMIC17/zeotap_chatbot_1.git
+cd zeotap_chatbot_1
 ```
 2️⃣ Install Dependencies
 ```sh
