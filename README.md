@@ -5,7 +5,7 @@ This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a 
 ## 🚀 Features
 - Interactive chat UI
 - API integration with the backend
-- Displays AI-generated responses
+- Displays web-scraped responses
 - "Read More" link support for extended content
 
 ## 📷 Screenshots
