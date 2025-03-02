@@ -1,6 +1,6 @@
 # Zeotap Chatbot - Frontend (Flutter)
 
-This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a user-friendly chat interface for querying and retrieving AI-generated responses. The backend is built using Flask.
+This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a user-friendly chat interface for querying and retrieving scraped responses. The backend is built using Flask.
 
 ## 🚀 Features
 - Interactive chat UI
