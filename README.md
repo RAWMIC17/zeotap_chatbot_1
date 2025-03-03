@@ -19,6 +19,14 @@ This is the **Flutter-based frontend** for the Zeotap Chatbot, which provides a 
 - **Dart** (Logic)
 - **HTTP Package** (API Calls)
 - **Firebase/Local Storage** (Optional for state management)
+- 
+
+## ❓ Question you can ask?
+
+```sh
+How to integrate zeotap in my account?
+```
+
 
 ## 🏗️ Setup & Installation
 ### 1️⃣ Clone the Repository
