@@ -36,6 +36,7 @@ cd zeotap_chatbot_1
 ```
 2️⃣ Install Dependencies
 ```sh
+flutter pub add http velocity_x
 flutter pub get
 ```
 3️⃣ Run the App
